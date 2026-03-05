@@ -1,0 +1,27 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="420" fill="#030A2E"/>
+  <path d="M48 154L154 90L170 114L95 160L170 206L154 230L48 166V154Z" fill="url(#paint0_linear)"/>
+  <path d="M372 154L266 90L250 114L325 160L250 206L266 230L372 166V154Z" fill="url(#paint1_linear)"/>
+  <path d="M114 280C150 256 184 242 210 242C236 242 270 256 306 280" stroke="#FFB200" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="210" cy="176" r="78" stroke="url(#paint2_linear)" stroke-width="16"/>
+  <path d="M166 200C178 182 194 172 214 170L192 198L214 198C204 214 188 224 166 226V200Z" fill="url(#paint3_linear)"/>
+  <text x="210" y="352" text-anchor="middle" fill="#F4F8FF" font-size="38" font-family="Orbitron, sans-serif" letter-spacing="4">CODE RANGERS</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="48" y1="90" x2="170" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B66FF"/>
+      <stop offset="1" stop-color="#1BD9FF"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="372" y1="90" x2="250" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B66FF"/>
+      <stop offset="1" stop-color="#1BD9FF"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="132" y1="98" x2="288" y2="254" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1BD9FF"/>
+      <stop offset="1" stop-color="#0B66FF"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="166" y1="170" x2="214" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1BD9FF"/>
+      <stop offset="1" stop-color="#0B66FF"/>
+    </linearGradient>
+  </defs>
+</svg>
